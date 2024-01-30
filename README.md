@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Apresenta as cinco operações básicas de um CRUD para recursos, com as principais exceções tratadas com retorno customizad.
+Apresenta as cinco operações básicas de um CRUD para recursos, com as principais exceções tratadas com retorno customizado.
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/LucasIbiapino7/assets/blob/main/imgs/CRUD-clientes.png)
